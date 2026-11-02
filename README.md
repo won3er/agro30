@@ -15,8 +15,4 @@ Empresas que vendem para o agronegócio (insumos, máquinas, serviços) e precis
 - **Inteligência comercial**: nota de potencial ajustável, busca de oportunidades por vários critérios, regiões semelhantes e exportação.
 - **Contas e equipes**, com análises salvas.
 
----
-
-Este repositório é uma **vitrine** do projeto: mostra o que o sistema faz. O código-fonte não é público.
-
 Desenvolvido por [@won3er](https://github.com/won3er).
