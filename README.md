@@ -2,6 +2,8 @@
 
 Inteligência territorial do agronegócio: geomarketing com dados públicos oficiais e verificáveis, tendo o mapa como centro da experiência.
 
+**No ar:** https://agro30-won3ers-projects.vercel.app
+
 ## Para quem é
 Empresas que vendem para o agronegócio (insumos, máquinas, serviços) e precisam saber onde estão as oportunidades.
 
